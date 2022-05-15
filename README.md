@@ -6,7 +6,7 @@
 
 ---
 [![DOCS](https://img.shields.io/badge/Documentation-see%20docs-green?style=for-the-badge&logo=appveyor)](INSERT_LINK_FOR_DOCS_HERE) 
-  [![UI ](https://img.shields.io/badge/User%20Interface-Link%20to%20UI-orange?style=for-the-badge&logo=appveyor)](INSERT_UI_LINK_HERE)
+  [![UI ](https://img.shields.io/badge/User%20Interface-Link%20to%20UI-orange?style=for-the-badge&logo=appveyor)](https://www.figma.com/file/4g5D5rHcOpTlZ7fcr6xvdD/investo?node-id=0%3A1)
 
 
 ## Functionalities
